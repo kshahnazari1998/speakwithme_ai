@@ -1,6 +1,6 @@
 # speakwithme_ai
 
-A new Flutter project.
+## Project By: Shervin House, Khashayar Shahnazari
 
 ## Getting Started
 
