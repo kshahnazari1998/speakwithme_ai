@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "480819346188",
+    "project_id": "speakwithme-535f1",
+    "storage_bucket": "speakwithme-535f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480819346188:android:7cd080a20899e1dd82a729",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480819346188-5ih8m5g7h2sk632oqm6g8q30e4tbbnbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQK0Djylrk4nyCU20T_CxND8zQj2hqtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480819346188-5ih8m5g7h2sk632oqm6g8q30e4tbbnbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480819346188-8c649l5oj38j2b8s82m7lrph21ud49tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Do"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480819346188:android:f269b5575144a80f82a729",
+        "android_client_info": {
+          "package_name": "com.example.speakwithme_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480819346188-5ih8m5g7h2sk632oqm6g8q30e4tbbnbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQK0Djylrk4nyCU20T_CxND8zQj2hqtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480819346188-5ih8m5g7h2sk632oqm6g8q30e4tbbnbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480819346188-8c649l5oj38j2b8s82m7lrph21ud49tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Do"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480819346188:android:c217ace7ad4a700882a729",
+        "android_client_info": {
+          "package_name": "com.mycompany.speakwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480819346188-9bg9hk6kba54hbc0a97stju5d19abm5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.speakwithme",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "480819346188-5ih8m5g7h2sk632oqm6g8q30e4tbbnbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQK0Djylrk4nyCU20T_CxND8zQj2hqtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480819346188-5ih8m5g7h2sk632oqm6g8q30e4tbbnbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480819346188-8c649l5oj38j2b8s82m7lrph21ud49tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Do"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
